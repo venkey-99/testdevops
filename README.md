@@ -1,2 +1,1 @@
-# testdevops
-repo for testing devops training
+### Multi-App Project\nContains sample Python, HTML, and Bash apps.
